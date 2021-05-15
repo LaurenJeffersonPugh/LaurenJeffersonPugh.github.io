@@ -15,7 +15,7 @@ RPG Maker MV
 \c[2]Artwork
 RPG Maker MV
 
-\c[2]Special Thanks
+\c[2]Special Thanks To
 All QA testers
 
 </block>
