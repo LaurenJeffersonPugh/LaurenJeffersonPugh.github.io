@@ -1,0 +1,29 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-2,10,10,offbot,center,Night>
+CREDITS
+
+Inspired by Shoujo Kageki Revue Starlight
+
+\c[2]Developer
+Lauren
+
+\c[2]Engine
+RPG Maker MV
+
+\c[2]Artwork
+RPG Maker MV
+
+\c[2]Special Thanks
+All QA testers
+
+</block>
+
+
+<block:999,0,10,10,300,center,Night>
+\c[2]THE END
+Thank you for playing!
+
+Press any button to return to the title screen
+</block>
