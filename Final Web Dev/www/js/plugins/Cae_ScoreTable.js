@@ -777,7 +777,7 @@ CAE.ScoreTable = CAE.ScoreTable || {};		// Plugin namespace
 	// Create scrollable score window
 	Scene_ScoreTable.prototype.createScoreWindow = function() {
 		this._scoreWindow = new Window_ScoreTable();
-		this._scoreWindow.setHandler('cancel', this.endScores.bind(this));
+		this._scoreWindow.setHandler('ok', this.endScores.bind(this));
 		this.addWindow(this._scoreWindow);
 	};
 
